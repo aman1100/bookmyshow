@@ -1,10 +1,8 @@
-package com.practice.BookMyShow.models;
+package com.practice.bookmyshow.models;
 
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.List;
 
 @Getter
 @Setter

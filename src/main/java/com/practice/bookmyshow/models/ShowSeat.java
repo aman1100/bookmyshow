@@ -1,6 +1,6 @@
-package com.practice.BookMyShow.models;
+package com.practice.bookmyshow.models;
 
-import com.practice.BookMyShow.enums.ShowSeatStatus;
+import com.practice.bookmyshow.enums.ShowSeatStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

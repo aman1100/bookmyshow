@@ -1,7 +1,7 @@
-package com.practice.BookMyShow.models;
+package com.practice.bookmyshow.models;
 
-import com.practice.BookMyShow.enums.PaymentProvider;
-import com.practice.BookMyShow.enums.PaymentStatus;
+import com.practice.bookmyshow.enums.PaymentProvider;
+import com.practice.bookmyshow.enums.PaymentStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

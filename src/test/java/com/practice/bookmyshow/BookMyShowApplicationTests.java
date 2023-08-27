@@ -1,4 +1,4 @@
-package com.practice.BookMyShow;
+package com.practice.bookmyshow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.practice.BookMyShow.models;
+package com.practice.bookmyshow.models;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -11,7 +11,7 @@ import java.util.Date;
 
 @Getter
 @Setter
-@MappedSuperclass
+@MappedSuperclass // to introduce inheritance in database
 public class BaseModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

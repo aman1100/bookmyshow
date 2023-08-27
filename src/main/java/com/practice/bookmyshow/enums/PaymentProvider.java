@@ -1,4 +1,4 @@
-package com.practice.BookMyShow.enums;
+package com.practice.bookmyshow.enums;
 
 public enum PaymentProvider {
     PAYU,

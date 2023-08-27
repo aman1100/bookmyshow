@@ -1,6 +1,6 @@
-package com.practice.BookMyShow.models;
+package com.practice.bookmyshow.models;
 
-import com.practice.BookMyShow.enums.Feature;
+import com.practice.bookmyshow.enums.Feature;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
