@@ -3,5 +3,6 @@ package com.practice.bookmyshow.enums;
 public enum BookingStatus {
     CONFIRMED,
     CANCELLED,
-    PENDING
+    PENDING,
+    IN_PROGRESS
 }
